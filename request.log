@@ -1,0 +1,22 @@
+{"level":"info","message":"GET"}
+{"message":{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?message=Hello","query":{"message":"Hello"},"pathname":"/echo","path":"/echo?message=Hello","href":"/echo?message=Hello"},"level":"debug"}
+{"level":"info","message":"GET"}
+{"message":{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?message=Hello","query":{"message":"Hello"},"pathname":"/echo","path":"/echo?message=Hello","href":"/echo?message=Hello"},"level":"debug"}
+{"level":"info","message":"GET"}
+{"message":{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?message=Hello","query":{"message":"Hello"},"pathname":"/echo","path":"/echo?message=Hello","href":"/echo?message=Hello"},"level":"debug"}
+{"level":"info","message":"GET"}
+{"message":{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?message=Hello","query":{"message":"Hello"},"pathname":"/echo","path":"/echo?message=Hello","href":"/echo?message=Hello"},"level":"debug"}
+{"level":"info","message":"GET"}
+{"message":{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?message=Hello","query":{"message":"Hello"},"pathname":"/echo","path":"/echo?message=Hello","href":"/echo?message=Hello"},"level":"debug"}
+{"level":"info","message":"GET"}
+{"message":{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?message=Hello","query":{"message":"Hello"},"pathname":"/echo","path":"/echo?message=Hello","href":"/echo?message=Hello"},"level":"debug"}
+{"level":"info","message":"GET"}
+{"message":{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?message=Hello","query":{"message":"Hello"},"pathname":"/echo","path":"/echo?message=Hello","href":"/echo?message=Hello"},"level":"debug"}
+{"level":"info","message":"GET"}
+{"message":{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?mesage=Hello","query":{"mesage":"Hello"},"pathname":"/echo","path":"/echo?mesage=Hello","href":"/echo?mesage=Hello"},"level":"debug"}
+{"message":"was not found","level":"error"}
+{"level":"info","message":"GET"}
+{"message":{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?mesage=Hello","query":{"mesage":"Hello"},"pathname":"/echo","path":"/echo?mesage=Hello","href":"/echo?mesage=Hello"},"level":"debug"}
+{"message":"was not found","level":"error"}
+{"level":"info","message":"GET"}
+{"message":{"protocol":null,"slashes":null,"auth":null,"host":null,"port":null,"hostname":null,"hash":null,"search":"?message=Hello","query":{"message":"Hello"},"pathname":"/echo","path":"/echo?message=Hello","href":"/echo?message=Hello"},"level":"debug"}
